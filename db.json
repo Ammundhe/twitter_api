@@ -1,11 +1,9 @@
-{
-    "posts":[
-        {
-            "displayName":"Amol Mundhe",
-            "userName":"am_mundhe",
-            "verified":true,
-            "description":"hello world i am from github",
-            "image":"https://media2.giphy.com/media/gd09Y2Ptu7gsiPVUrv/giphy.gif"
-        }
-    ]
-}
+[
+    {
+        "displayName":"Amol Mundhe",
+        "userName":"am_mundhe",
+        "verified":true,
+        "description":"hello world welcome to github",
+        "image":"https://media2.giphy.com/media/gd09Y2Ptu7gsiPVUrv/giphy.gif"
+    }
+]
